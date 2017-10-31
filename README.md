@@ -1,4 +1,3 @@
 # TCL-Go
-Just fun
-\n
+Just fun!      
 Welcome to TCL research!
